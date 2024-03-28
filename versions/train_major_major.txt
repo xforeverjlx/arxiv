@@ -1,0 +1,1 @@
+{"hep-th": 1041, "hep-ex": 774, "math-ph": 766, "hep-lat": 674, "astro-ph": 487, "econ": 278, "physics": 446, "hep-ph": 878, "quant-ph": 805, "stat": 650, "nucl-ex": 559, "q-bio": 470, "cs": 457, "gr-qc": 873, "cond-mat": 656, "q-fin": 600, "nucl-th": 592, "nlin": 535, "eess": 425, "math": 747, "dg-ga": 102}

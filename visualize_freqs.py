@@ -1,7 +1,6 @@
 import json
 
 import matplotlib.pyplot as plt
-import pandas as pd
 
 for split in ["train", 'test']:
   for cat_type in ["major", "minor"]:
