@@ -1,0 +1,1 @@
+{"cs": 6973, "math": 6000, "physics": 4361, "cond-mat": 1800, "q-fin": 1151, "q-bio": 1656, "astro-ph": 1397, "hep-ex": 200, "math-ph": 200, "hep-lat": 200, "stat": 866, "hep-th": 200, "eess": 747, "nlin": 876, "hep-ph": 200, "nucl-ex": 200, "quant-ph": 200, "econ": 233, "nucl-th": 200, "gr-qc": 200, "dg-ga": 107}

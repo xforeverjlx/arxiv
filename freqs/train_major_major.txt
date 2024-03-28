@@ -1,0 +1,1 @@
+{"astro-ph": 1602, "math-ph": 1600, "hep-ex": 1600, "hep-th": 1600, "hep-lat": 1599, "physics": 1606, "econ": 934, "hep-ph": 1600, "nucl-ex": 1600, "q-bio": 1599, "cs": 1592, "stat": 1583, "quant-ph": 1600, "cond-mat": 1600, "gr-qc": 1600, "eess": 1599, "q-fin": 1598, "nucl-th": 1598, "nlin": 1593, "math": 1617, "dg-ga": 433}
